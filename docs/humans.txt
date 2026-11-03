@@ -1,0 +1,8 @@
+/* TEAM */
+Brand: MULAN 沐岚, Foshan Mulan Zhijia Building Materials Co., Ltd.
+Site built by: ToucHigh (touchigh.ai)
+
+/* SITE */
+Last update: 2026-11-03
+Languages: English, 中文
+Standards: HTML5, CSS3, schema.org JSON-LD
