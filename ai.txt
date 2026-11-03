@@ -1,0 +1,5 @@
+# AI usage policy for https://touchigh.github.io/mulan/
+User-Agent: *
+Allow: /
+
+Attribution: MULAN (沐岚), Foshan Mulan Zhijia Building Materials Co., Ltd. — https://touchigh.github.io/mulan/

@@ -5,9 +5,9 @@
 沐岚（MULAN）是佛山的适老化卫浴制造商，提供坐式淋浴器、电动起身助力架、安全扶手和适老化智能卫浴空间套餐，服务经销商、OEM 品牌和养老机构。
 
 ## Key pages
-- [Home (English)](https://DOMAIN-TBD/)
-- [首页（中文）](https://DOMAIN-TBD/zh/)
-- [Full brief for AI assistants](https://DOMAIN-TBD/llms-full.txt)
+- [Home (English)](https://touchigh.github.io/mulan/)
+- [首页（中文）](https://touchigh.github.io/mulan/zh/)
+- [Full brief for AI assistants](https://touchigh.github.io/mulan/llms-full.txt)
 
 ## Products
 - Multifunctional seating shower (多功能坐式淋浴器): Seated or standing bath, 8 outlets, back massage, folding armrests.

@@ -61,4 +61,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 
-Sitemap: https://DOMAIN-TBD/sitemap.xml
+Sitemap: https://touchigh.github.io/mulan/sitemap.xml
