@@ -76,3 +76,5 @@ a.card:hover{box-shadow:0 0 0 2px var(--navy) inset}
 .brand .wm{font-weight:300;letter-spacing:.18em}.brand .wm b{font-weight:600}.wa{background:#1F4E7A}.specs{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.specs li{background:var(--tile);border-radius:var(--r);padding:18px}.specs b{display:block;font-size:22px;color:var(--navy2)}@media(max-width:700px){.specs{grid-template-columns:1fr}}.pimg{background:#fff;border-radius:var(--r);border:1px solid var(--hair);padding:12px}.pimg img{max-height:460px;width:auto;margin:0 auto}
 
 .t-safety{--dot:#1F4E7A}.t-projects{--dot:#5F88B0}.t-sourcing{--dot:#2FA36B}
+.chips span{display:block;padding:9px 16px;border-radius:999px;background:#fff;border:1px solid var(--hair);color:var(--navy);font-weight:500}
+.tint .card.why{background:#fff;border:1px solid var(--hair)}

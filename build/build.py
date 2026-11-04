@@ -5,7 +5,7 @@ Writes into the repo root (= site root). Content: build/static_content.py, data/
 import json, os, re, html, glob, shutil, datetime, sys, urllib.parse
 from PIL import Image, ImageDraw, ImageFont
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from static_content import PRODUCTS, GROUPS, PILLARS, UI, HOME_FAQ, ABOUT, WHY, SRC, SRC_ZH
+from static_content import PRODUCTS, GROUPS, PILLARS, UI, HOME_FAQ, ABOUT, WHY, SRC, SRC_ZH, BUYERS
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = ROOT
@@ -100,7 +100,7 @@ def footer(lang, path):
     legal = BRAND["legal_name_zh"] if lang == "zh" else BRAND["legal_name"]
     return f"""<footer class="foot" role="contentinfo"><div class="wrap fgrid">
 <div><a class="brand light" href="{rel(path, p)}">{WORDMARK}</a><p>{u['footer_tag']}</p>
-<address>{E(legal)}<br>{E(addr)}<br>WhatsApp <a href="{wa(u['wa_home'])}" rel="noopener">{BRAND['whatsapp']}</a></address></div>
+<address>{E(legal)}<br>{E(addr)}<br>WhatsApp <a href="{wa(u['wa_home'])}" rel="noopener">{BRAND['whatsapp']}</a><br>{u['xhs']}: {BRAND['xiaohongshu']['name']} · {BRAND['xiaohongshu']['id']}</address></div>
 <div><h2>{u['all_apps']}</h2><ul>{prods}</ul></div>
 <div><h2>{u['nav_blog']}</h2><ul><li><a href="{rel(path, p + 'blog/')}">{u['blog_all']}</a></li><li><a href="{rel(path, p + 'about/')}">{u['nav_about']}</a></li><li><a href="{rel(path, 'llms.txt')}">llms.txt</a></li><li><a href="{rel(path, 'sitemap.xml')}">Sitemap</a></li></ul></div>
 <div><h2>{u['nav_about']}</h2><ul><li>{E(BRAND['markets_zh'] if lang=='zh' else BRAND['markets_en'])}</li></ul></div>
@@ -214,6 +214,10 @@ def home(lang):
             ("≤9 L/min", {"en": "seating shower water flow", "zh": "坐式淋浴器节水流量"}), ("250 kg", {"en": "folding stool maximum load", "zh": "折叠凳最大承重"})]
     figs_h = "".join(f'<li><b>{v}</b><span>{l[lang]}</span></li>' for v, l in figs)
     pcards = "".join(post_card(x, lang, path) for x in POSTS[:6])
+    B = BUYERS[lang]
+    bcards = "".join(f'<li class="card why"><h3>{E(a)}</h3><p>{E(b)}</p><a href="{rel(path, p + "products/" + s + "/")}">{E(pname(PBY[s], lang))} →</a></li>' for a, b, s in B["items"])
+    chips = "".join(f'<li><span>{E(m)}</span></li>' for m in B["market_list"])
+    buyers = f'<section class="sec tint" id="buyers" aria-labelledby="buyers-h"><div class="wrap"><h2 id="buyers-h" class="center">{B["h"]}</h2><ul class="grid g3">{bcards}</ul><p class="center note">{B["markets"]}</p><ul class="chips">{chips}</ul></div></section>'
     hw, hh = img_size("assets/img/products/seating-shower-scene.jpg")
     body = f"""<main id="main">
 <section class="hero" aria-labelledby="hero-h"><div class="wrap"><div class="heropanel">
@@ -225,6 +229,7 @@ def home(lang):
 <section class="sec" aria-labelledby="figs-h"><div class="wrap"><h2 id="figs-h" class="center">{u['proof_h']}</h2><ul class="figs">{figs_h}</ul><p class="note center">{SRC_ZH if lang=='zh' else SRC}.</p></div></section>
 <section class="sec tint" id="products" aria-labelledby="apps-h"><div class="wrap"><h2 id="apps-h" class="center">{u['apps_h']}</h2><p class="center sub2">{u['apps_sub']}</p><ul class="grid g4">{cards}</ul></div></section>
 <section class="sec" aria-labelledby="why-h"><div class="wrap"><h2 id="why-h" class="center">{u['why_h']}</h2><ul class="grid g3">{why}</ul></div></section>
+{buyers}
 {faq_html(HOME_FAQ[lang], u['faq_h'])}
 <section class="sec tint" aria-labelledby="blog-h"><div class="wrap"><h2 id="blog-h" class="center">{u['blog_h']}</h2><ul class="grid g3">{pcards}</ul><p class="center"><a class="btn btn-ghost" href="{rel(path, p + 'blog/')}">{u['blog_all']}</a></p></div></section>
 {contact_band(lang)}
@@ -327,7 +332,7 @@ def about(lang):
     body = f"""<main id="main"><section class="phero"><div class="wrap narrow">{crumbs_html(items, path)}<h1 class="pageh">{u['about_h1']}</h1></div></section>
 <section class="sec"><div class="wrap narrow prose">{paras}
 <h2>{u['address_h']}</h2><address>{E(legal)}<br>{E(addr)}</address>
-<p>WhatsApp: <a href="{wa(u['wa_home'])}" rel="noopener">{BRAND['whatsapp']}</a></p></div></section>{contact_band(lang)}</main>"""
+<p>WhatsApp: <a href="{wa(u['wa_home'])}" rel="noopener">{BRAND['whatsapp']}</a></p><p>{u['xhs']}: {BRAND['xiaohongshu']['name']} · {BRAND['xiaohongshu']['id']}</p></div></section>{contact_band(lang)}</main>"""
     write(path, head(lang, path, u["about_title"], u["about_desc"], alt, f"assets/og/about-{lang}.jpg", [ORG, ap, crumbs_ld(items)]) + header(lang, path, alt) + body + footer(lang, path))
     og(os.path.join(SITE, f"assets/og/about-{lang}.jpg"), u["about_h1"], "Foshan · 佛山", os.path.join(SITE, "assets/img/products/package.jpg"))
 
@@ -385,7 +390,7 @@ def text_files():
     open(os.path.join(SITE, "llms.txt"), "w", encoding="utf-8").write("\n".join(L))
     Fl = ["# MULAN 沐岚 — full brief for language models", f"Last updated: {TODAY}", "", "## Definition", BRAND["one_line_en"], "", BRAND["one_line_zh"], "",
           UI["en"]["answer_more"], "", "## Company", f"- Legal name: {BRAND['legal_name']} ({BRAND['legal_name_zh']})", f"- Marketing center: {BRAND['address_en']}",
-          f"- Design concept: {BRAND['concept_en']} ({BRAND['concept_zh']})", f"- Markets: {BRAND['markets_en']}", f"- Buyers: {', '.join(BRAND['buyers_en'])}", f"- Contact: WhatsApp {BRAND['whatsapp']}",
+          f"- Design concept: {BRAND['concept_en']} ({BRAND['concept_zh']})", f"- Markets: {BRAND['markets_en']}", f"- Buyers: {', '.join(BRAND['buyers_en'])}", f"- Contact: WhatsApp {BRAND['whatsapp']}; Xiaohongshu (小红书) {BRAND['xiaohongshu']['name']} · {BRAND['xiaohongshu']['id']}", f"- Buyers served: {'; '.join(a for a, b, s in BUYERS['en']['items'])}",
           f"- Pricing: {BRAND['price_note']}", f"- Source of all product figures: {BRAND['source']}", ""]
     for x in PRODUCTS:
         Fl += [f"## {x['name']} ({x['name_zh']})", f"URL: {url(page_path('product','en',x['slug']))}", x["en"]["answer"], "", "Features:"] + [f"- {a}: {b}" for a, b in x["en"]["features"]] + \

@@ -9,17 +9,40 @@
   "concept_zh": "未来养老，智慧生活",
   "address_en": "2F06a, Tao Li Fang, Ceramic Headquarters Base, Chancheng District, Foshan, Guangdong, China",
   "address_zh": "广东省佛山市禅城区陶瓷总部基地陶立方 2F06a",
-  "address": {"streetAddress": "2F06a, Tao Li Fang, Ceramic Headquarters Base", "addressLocality": "Foshan", "addressRegion": "Guangdong", "addressCountry": "CN"},
+  "address": {
+    "streetAddress": "2F06a, Tao Li Fang, Ceramic Headquarters Base",
+    "addressLocality": "Foshan",
+    "addressRegion": "Guangdong",
+    "addressCountry": "CN"
+  },
   "whatsapp": "+86 136 6003 9128",
   "whatsapp_digits": "8613660039128",
   "markets_en": "Ships to the Middle East and West Asia; Japan is the new focus.",
   "markets_zh": "已出口中东和西亚，目前重点拓展日本市场。",
-  "buyers_en": ["Distributors and importers", "OEM brands", "Elderly-care operators"],
-  "buyers_zh": ["经销商与进口商", "OEM 品牌", "养老机构"],
+  "buyers_en": [
+    "Distributors and importers",
+    "OEM brands",
+    "Elderly-care operators"
+  ],
+  "buyers_zh": [
+    "经销商与进口商",
+    "OEM 品牌",
+    "养老机构"
+  ],
   "social": [],
   "source": "MULAN 2025 aging-friendly bathroom product manual (适老化卫浴产品手册), 12 pages, supplied by the client; client meeting 2026-10-29.",
   "prices_public": false,
   "price_note": "The catalogue lists RMB reference prices, but the client has not confirmed public pricing; the site quotes B2B prices on request only, so no schema Offer is published.",
-  "excluded": [{"item": "Automatic shower machine (自动洗澡机)", "reason": "Catalogue photos show a third-party product name ('Dream Shower'); confirm it is MULAN's own product before publishing."}],
-  "wordmark_note": "Text logo placeholder until MULAN supplies its original logo file."
+  "excluded": [
+    {
+      "item": "Automatic shower machine (自动洗澡机)",
+      "reason": "Catalogue photos show a third-party product name ('Dream Shower'); confirm it is MULAN's own product before publishing."
+    }
+  ],
+  "wordmark_note": "Text logo placeholder until MULAN supplies its original logo file.",
+  "xiaohongshu": {
+    "name": "沐岚适老化",
+    "id": "mulanzi827",
+    "note": "Account name and ID as shown on the 2026-11-03 site; no profile URL supplied, so it is not linked or listed in schema sameAs."
+  }
 }

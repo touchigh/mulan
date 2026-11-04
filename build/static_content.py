@@ -289,7 +289,7 @@ UI = {
         "filter_all": "All", "updated": "Updated", "minread": "min read", "sources_h": "Sources", "source": "Source: 2025 product manual",
         "about_title": "About MULAN 沐岚 | Foshan aging-friendly bathroom maker", "about_h1": "About MULAN",
         "about_desc": "MULAN is the brand of Foshan Mulan Zhijia Building Materials Co., Ltd., a Foshan maker of aging-friendly bathroom products for B2B and OEM buyers.",
-        "address_h": "Marketing center", "wa_home": "Hello MULAN, I found your website. I'd like a quote for aging-friendly bathroom products. My market: ___ Products: ___ Quantity: ___",
+        "address_h": "Marketing center", "xhs": "Xiaohongshu", "wa_home": "Hello MULAN, I found your website. I'd like a quote for aging-friendly bathroom products. My market: ___ Products: ___ Quantity: ___",
         "wa_product": "Hello MULAN, I'm interested in the {name}. Please send the product sheet and B2B price. My market: ___ Quantity: ___",
         "disc": "Product figures from MULAN's 2025 aging-friendly bathroom product manual. Prices are quoted B2B on request."},
  "zh": {"locale": "zh_CN", "skip": "跳到正文", "nav_products": "产品", "nav_blog": "文章", "nav_faq": "常见问题", "nav_about": "关于", "cta": "WhatsApp 咨询",
@@ -309,6 +309,16 @@ UI = {
         "filter_all": "全部", "updated": "更新于", "minread": "分钟阅读", "sources_h": "来源", "source": "来源：2025 产品手册",
         "about_title": "关于沐岚 MULAN | 佛山适老化卫浴制造商", "about_h1": "关于沐岚",
         "about_desc": "沐岚是佛山市沐岚智家建材有限公司的品牌，为 B2B 和 OEM 客户生产适老化卫浴产品。",
-        "address_h": "营销中心", "wa_home": "您好沐岚，我在官网看到你们的产品，想咨询适老化卫浴产品报价。市场：___ 产品：___ 数量：___",
+        "address_h": "营销中心", "xhs": "小红书", "wa_home": "您好沐岚，我在官网看到你们的产品，想咨询适老化卫浴产品报价。市场：___ 产品：___ 数量：___",
         "wa_product": "您好沐岚，我对{name}感兴趣，请发送产品资料和 B2B 报价。市场：___ 数量：___",
         "disc": "产品参数来自沐岚 2025 适老化卫浴产品手册。价格按需提供 B2B 报价。"}}
+
+BUYERS = {
+ "en": {"h": "Who we work with", "markets": "Markets", "market_list": ["Middle East", "West Asia", "Japan · new focus"],
+        "items": [("Distributors and importers", "A full aging-friendly bathroom range from one factory, from grab bars to complete packages.", "grab-bars"),
+                  ("OEM brands", "Products from our catalogue, made for your brand. Ask us about your requirements.", "seating-shower"),
+                  ("Elderly-care operators", "Room-by-room bathroom plans for care homes and senior apartments, with one specification for every room.", "smart-bathroom-package")]},
+ "zh": {"h": "合作对象", "markets": "市场", "market_list": ["中东", "西亚", "日本 · 重点拓展"],
+        "items": [("经销商与进口商", "一家工厂提供完整适老化卫浴产品线，从扶手到整体套餐。", "grab-bars"),
+                  ("OEM 品牌", "以您的品牌生产手册中的产品，欢迎咨询具体需求。", "seating-shower"),
+                  ("养老机构", "为养老院和老年公寓逐间规划卫浴，每个房间同一套规格。", "smart-bathroom-package")]}}
