@@ -1,83 +1,309 @@
-# MULAN 沐岚 — full brief
+# MULAN 沐岚 — full brief for language models
+Last updated: 2026-11-04
 
-MULAN (沐岚) is a Foshan manufacturer of aging-friendly bathroom products: seated showers, rise-assist toilet frames, grab bars and complete smart bathroom packages for distributors, OEM brands and elderly-care operators.
+## Definition
+MULAN (沐岚) is a Foshan factory making aging-friendly bathroom products, from seated showers to rise-assist stands and grab bars, for distributors, OEM brands and care operators.
 
-沐岚（MULAN）是佛山的适老化卫浴制造商，提供坐式淋浴器、电动起身助力架、安全扶手和适老化智能卫浴空间套餐，服务经销商、OEM 品牌和养老机构。
+沐岚（MULAN）是佛山的适老化卫浴工厂，为经销商、OEM 品牌和养老机构提供坐式淋浴器、电动起身助力架和安全扶手等产品。
 
-Legal name: Foshan Mulan Zhijia Building Materials Co., Ltd. (佛山市沐岚智家建材有限公司)
-Marketing center: 2F06a, Tao Li Fang, Ceramic Headquarters Base, Chancheng District, Foshan, Guangdong, China
-Design concept: "Future elderly care, smart living" (未来养老，智慧生活)
-Markets: ships to the Middle East and West Asia; Japan is the new focus.
-Buyers: distributors and importers, OEM brands, elderly-care operators.
+Every product is designed so older people and people with limited mobility can bathe and use the toilet safely and on their own. MULAN ships to the Middle East and West Asia, and Japan is its new focus. Prices are quoted B2B on request.
 
-## What sets MULAN apart
-- One supplier, whole bathroom: The aging-friendly smart bathroom package plans the whole room in one go: presence sensor, warm lighting, smart bath heater, anti-slip handrails, SOS call button, seated shower, smart toilet with lift assist, and a wheelchair-accessible cabinet.
-- Bathing seated, without strain: The multifunctional seating shower lets users wash seated or standing. Eight adjustable outlets on the shower arms wrap the body in water, with shoulder spray and back massage. The armrests fold away to save space.
-- Standing up, with a lift: The electric rise-assist stand raises the seat at one touch, quietly and to any height, and holds it wherever the user stops. It is built for people whose knees make sitting down and getting up hard.
-- Safety in the small details: Grab bars use anti-slip particles and a 36 mm grip with a built-in aluminium alloy tube. Luminous rings glow at night after absorbing light. The wall-mounted folding stool carries up to 250 kg.
+## Company
+- Legal name: Foshan Mulan Zhijia Building Materials Co., Ltd. (佛山市沐岚智家建材有限公司)
+- Marketing center: 2F06a, Tao Li Fang, Ceramic Headquarters Base, Chancheng District, Foshan, Guangdong, China
+- Design concept: Future elderly care, smart living (未来养老，智慧生活)
+- Markets: Ships to the Middle East and West Asia; Japan is the new focus.
+- Buyers: Distributors and importers, OEM brands, Elderly-care operators
+- Contact: WhatsApp +86 136 6003 9128
+- Pricing: The catalogue lists RMB reference prices, but the client has not confirmed public pricing; the site quotes B2B prices on request only, so no schema Offer is published.
+- Source of all product figures: MULAN 2025 aging-friendly bathroom product manual (适老化卫浴产品手册), 12 pages, supplied by the client; client meeting 2026-10-29.
 
-## Products
-- Multifunctional seating shower (多功能坐式淋浴器): Seated or standing bath, 8 outlets, back massage, folding armrests.
-- Multifunctional split shower (多功能分体式淋浴器): Rotating upper and lower spray arms; with or without top spray.
-- Electric rise-assist stand (电动起身助力架): One-touch silent seat lift for the toilet. IPX4, 100–240 VAC.
-- Wall-mounted shower chair (挂墙淋浴椅): PU seat pad, anti-slip feet, folds up when not in use.
-- Wall-mounted folding stool (挂墙折叠凳): Flips 180°, anti-slip surface, ABS and stainless steel, 250 kg.
-- Grab bars and armrests (安全扶手系列): L-shaped, U-shaped flip-up, side flip-up and washbasin armrests.
-- Smart bathroom cabinet (智能浴室柜): Wheelchair accessible; mirror tilts 0–15° for users of any height.
-- Automatic shower machine (自动洗澡机): For care homes: about 4 minutes and 80–100 L of water per bather.
+## Aging-friendly smart bathroom package (适老化智能卫浴空间套餐)
+URL: https://touchigh.github.io/mulan/products/smart-bathroom-package/
+MULAN's aging-friendly smart bathroom package plans a whole bathroom around older users: a human presence sensor, warm lighting, a smart bath heater, anti-slip handrails, an SOS call button, a seated shower, a smart toilet with lift assist and a cabinet a wheelchair can roll under.
 
-## FAQ
+Features:
+- Human presence sensor: Detects someone in the room.
+- Warm aging-friendly lighting: Soft light planned for older eyes.
+- Smart bath heater: Keeps the room warm while bathing.
+- Anti-slip handrails: Support along the shower and toilet.
+- SOS emergency call button: A call point inside the bathroom.
+- Seated shower: Bathe sitting or standing.
+- Smart toilet + lift assist: Helps the user sit down and stand up.
+- Wheelchair-accessible cabinet: A wheelchair can roll under the basin cabinet.
 
-### What does MULAN make?
-MULAN (Foshan Mulan Zhijia Building Materials Co., Ltd.) makes aging-friendly bathroom products: multifunctional seating and split showers, an electric rise-assist stand for the toilet, wall-mounted shower chairs and folding stools, grab bars and armrests, a wheelchair-accessible smart bathroom cabinet, an automatic shower machine for care homes, and a complete aging-friendly smart bathroom package.
+Specifications:
+- Design concept: Built around 'Future elderly care, smart living'.
+- 8 parts, one plan: Listed together in the 2025 product manual.
 
-### 沐岚生产哪些产品？
-沐岚（佛山市沐岚智家建材有限公司）生产适老化卫浴产品：多功能坐式和分体式淋浴器、电动起身助力架、挂墙淋浴椅和折叠凳、安全扶手系列、轮椅可入的智能浴室柜、面向养老机构的自动洗澡机，以及适老化智能卫浴空间套餐。
+FAQ:
+Q: What does the aging-friendly smart bathroom package include?
+A: It includes a human presence sensor, warm aging-friendly lighting, a smart bath heater, anti-slip safety handrails, an SOS emergency call button, a seated shower, a smart toilet with a lifting assist device and a smart bathroom cabinet that a wheelchair can roll under. MULAN plans these as one bathroom rather than as separate purchases.
+Q: Who is the package designed for?
+A: It is designed for older people and people with limited mobility who want to bathe and use the toilet safely. MULAN sells it to elderly-care operators, distributors and importers, and OEM brands that furnish care homes, senior apartments or private homes.
+Q: Can the package be adapted to my floor plan?
+A: Send MULAN your room sizes and the number of bathrooms on WhatsApp. The team will confirm which parts fit and quote the package for your project. Final layouts depend on the space, so ask before ordering.
+Q: How do I get a price for the package?
+A: MULAN quotes B2B prices on request. Message the team on WhatsApp at +86 136 6003 9128 with your market, the number of bathrooms and the parts you need.
 
-### Who are MULAN products for?
-The products are for older adults and people with limited mobility who want to bathe and use the toilet safely and on their own. MULAN sells to businesses: distributors and importers, OEM brands, and elderly-care institutions that furnish homes, apartments or care facilities.
+## Multifunctional seating shower (多功能坐式淋浴器)
+URL: https://touchigh.github.io/mulan/products/seating-shower/
+MULAN's multifunctional seating shower is a freestanding unit with a seat, so older users or people with limited mobility can shower sitting or standing. Eight adjustable outlets on two shower arms wrap the body in water, with shoulder spray and back massage. It uses at most 9 litres a minute and carries up to 110 kg.
 
-### 沐岚的产品适合谁？
-产品面向希望安全、独立完成洗浴和如厕的老年人及行动不便人士。沐岚主要服务企业客户：经销商与进口商、OEM 品牌，以及为家庭、公寓或养老设施做配置的养老机构。
+Features:
+- Two ways to bathe: Sitting bath or standing bath.
+- 8 adjustable outlets: Angle each outlet on the two shower arms.
+- Shoulder spray + back massage: Shoulder water swings up and down.
+- Folding armrests: Fold away to save space.
+- Water saving: No more than 9 L/min.
+- Materials: ABS seat and backrest, stainless steel frame, partial copper.
 
-### Can an older person shower sitting down?
-Yes. The multifunctional seating shower is a standalone unit with a seat, so the user can wash seated or standing. Eight outlets on the two shower arms adjust in angle to wrap the body in water, and it offers shoulder spray and back massage. It uses no more than 9 litres per minute and carries up to 110 kg.
+Specifications:
+- Maximum load: 110 kg
+- Working water pressure: 0.1–0.5 MPa
+- Outer box: 133 × 71 × 20 cm
 
-### 老人可以坐着洗澡吗？
-可以。多功能坐式淋浴器自带座椅，可坐浴也可站浴。两侧淋浴臂共 8 个出水嘴，角度可调，水雾包裹全身，并有肩部出水和后背按摩。节水流量不超过 9 升/分钟，最大承重 110 公斤。
+FAQ:
+Q: Can an older person shower sitting down with this unit?
+A: Yes. The seating shower has its own seat, so the user can wash sitting or standing. Eight outlets on two adjustable shower arms surround the body with water, and the shoulder outlets add a swinging spray and back massage. The armrests fold away when not needed.
+Q: How much water does the seating shower use?
+A: According to MULAN's 2025 product manual, the water-saving flow is no more than 9 litres per minute at a working water pressure of 0.1 to 0.5 MPa.
+Q: What is the maximum load?
+A: The seating shower carries up to 110 kg. The seat and backrest are ABS, the frame is stainless steel with some copper parts, and it ships in a 133 × 71 × 20 cm outer box.
+Q: Can MULAN supply the seating shower under my brand?
+A: MULAN offers OEM. Message the team on WhatsApp at +86 136 6003 9128 with your market and expected quantities to discuss private-label supply.
 
-### How does the electric rise-assist stand help at the toilet?
-It fits over the toilet and lifts the seat at one touch, silently and to any height, stopping wherever the user releases the button. The front edge rises 130 + 45 mm and the seat tilts 0–13°, helping people with knee problems sit down and stand up. It carries 135 kg, is rated IPX4 and lasts 20,000 cycles.
+## Multifunctional split shower (多功能分体式淋浴器)
+URL: https://touchigh.github.io/mulan/products/split-shower/
+MULAN's multifunctional split shower mounts on the wall with upper and lower spray arms that rotate, plus shoulder spray, a hand shower and an optional top spray. It is made of stainless steel and ABS and comes in two versions, with or without the top spray.
 
-### 电动起身助力架如何帮助如厕？
-助力架安装在马桶上，一键静音升降座圈，无级调节、随时悬停。前沿抬升 130 + 45 mm，座板角度 0–13°，帮助膝关节不适的老人坐下和起身。最大载荷 135 kg，防护等级 IPX4，使用寿命 20,000 次。
+Features:
+- Rotating arms: Upper and lower arms both rotate.
+- Four ways to spray: Spray arm, shoulder spray, showerhead, top spray.
+- Two versions: With or without top spray.
+- Materials: Stainless steel + ABS.
 
-### What is in the aging-friendly smart bathroom package?
-The package plans a whole bathroom around the idea of future elderly care and smart living. It combines a human presence sensor, warm aging-friendly lighting, a smart bath heater, anti-slip handrails, an SOS emergency call button, a seated shower, a smart toilet with lift assist, and a smart cabinet that a wheelchair can roll under.
+Specifications:
+- Gross weight: 14 kg / 15 kg
+- Outer box: 82 × 70 × 18 cm
 
-### 适老化智能卫浴空间套餐包含什么？
-套餐以“未来养老，智慧生活”为核心理念规划整间卫浴，包括人体存在感应器、适老化温馨照明、智能浴霸、安全防滑扶手、SOS 紧急呼叫按钮、坐式淋浴器、智能马桶 + 升降辅助器，以及轮椅可入的智能浴室柜。
+FAQ:
+Q: What is the difference between the two split shower versions?
+A: One version has a top spray and one does not. Both have rotating upper and lower spray arms, shoulder spray and a hand shower. The gross weight is 14 kg or 15 kg depending on the version.
+Q: Can the split shower be used with a shower seat?
+A: Yes. Because the lower arm rotates, water can reach a seated user. Many projects pair it with a wall-mounted shower chair or folding stool; ask MULAN which combination suits your room.
+Q: What is the split shower made of?
+A: The main materials are stainless steel and ABS. It ships in an 82 × 70 × 18 cm outer box.
+Q: How do I order the split shower?
+A: Message MULAN on WhatsApp at +86 136 6003 9128 with the version you need, your market and the quantity, and the team will send a B2B quote.
 
-### Are the grab bars easy to find at night?
-The luminous versions of MULAN grab bars have glowing rings that light up in the dark after absorbing light, so the bar is easier to find at night. The bars also use raised anti-slip particles, and the L-shaped bar has a 36 mm resin grip with a built-in aluminium alloy tube.
+## Electric rise-assist stand (电动起身助力架)
+URL: https://touchigh.github.io/mulan/products/rise-assist-stand/
+MULAN's electric rise-assist stand fits over the toilet and raises the seat at one touch, silently and to any height, stopping wherever the user releases the button. The front edge rises 130 + 45 mm and tilts 0–13°, helping people with knee problems sit and stand. It carries 135 kg, is rated IPX4 and lasts 20,000 cycles.
 
-### 夜间能看清扶手吗？
-沐岚夜光款扶手带夜光圈，吸收光源后可在黑暗中发光，夜间更容易找到扶手。扶手表面有凸起防滑颗粒，L 型扶手为 36 mm 树脂外管内置铝合金管。
+Features:
+- One-touch silent lift: Infinitely adjustable, hover anytime.
+- Lift and tilt: Front lifts 130 + 45 mm; seat angle 0–13°.
+- Ergonomic armrests: Antibacterial ABS rests with curled edges.
+- Silicone grip: Adds friction where hands hold.
+- Power: 100–240 VAC, 50/60 Hz; standby ≤1 W (230 V).
+- Protection: IPX4.
 
-### How does the automatic shower machine help care homes?
-A caregiver bathes a resident lying down. A standard wash takes about 4 minutes and about 80–100 litres of water, compared with about 400–600 litres for other bathing equipment. Body and disinfection nozzles run on separate pipes, and water supply stops automatically if the temperature is abnormal.
+Specifications:
+- Maximum load: 135 kg
+- Service life: 20,000 cycles
+- Product weight: 32.5 kg
 
-### 自动洗澡机对养老机构有什么帮助？
-护理人员可为卧姿老人洗浴。标准流程每人约 4 分钟，用水约 80–100 公升，其他淋浴设备约 400–600 公升。人体喷管与机器消毒喷管独立分开；水温异常时机器自动停止供水。
+FAQ:
+Q: How does the rise-assist stand help at the toilet?
+A: It sits over the toilet and lifts the seat at one touch. The lift is silent, infinitely adjustable and stops wherever the user lets go, so people with knee or joint discomfort can lower themselves and stand up with less effort.
+Q: What are the lift range and seat angle?
+A: The front edge rises 130 + 45 mm and the seat plate tilts from 0 to 13 degrees, according to MULAN's 2025 product manual.
+Q: Is it safe to use in a wet bathroom?
+A: The stand is rated IPX4 against splashing water. The armrests are antibacterial ABS with curled edges to reduce slipping, and the grip area is silicone for extra friction.
+Q: What power supply does it need?
+A: It runs on 100–240 VAC at 50/60 Hz, so it suits most export markets. Standby power is at most 1 W at 230 V and single-channel maximum current is 5 ± 0.5 A.
 
-### Which markets does MULAN supply, and how do I get a quote?
-MULAN already ships to the Middle East and West Asia and is now expanding to Japan. For B2B pricing, product details or OEM requests, message the MULAN team on WhatsApp at +86 136 6003 9128 with the products and quantities you need.
+## Wall-mounted shower chair (挂墙淋浴椅)
+URL: https://touchigh.github.io/mulan/products/shower-chair/
+MULAN's wall-mounted shower chair gives older users a soft PU seat pad, anti-slip TPR feet and independently folding armrests. The HDPE seat has five drain holes, the pad lifts off for cleaning, and the whole chair folds up against the wall when not in use.
 
-### 沐岚供应哪些市场？如何获取报价？
-沐岚已出口中东和西亚，目前重点拓展日本市场。如需 B2B 报价、产品资料或 OEM 合作，请通过 WhatsApp +86 136 6003 9128 联系沐岚团队，并说明所需产品和数量。
+Features:
+- PU seat pad: Soft and warm to sit on.
+- Anti-slip TPR feet: Grip the shower floor.
+- Drain holes: HDPE seat with 5 drain holes.
+- Removable pad: Lifts off for cleaning.
+- Folds up: Saves space when not in use.
+- Folding armrests: Each armrest folds independently.
 
-## Source
-All product figures come from the MULAN 2025 aging-friendly bathroom product manual.
+Specifications:
+- Materials: 304 stainless backrest tube and back panel; painted aluminium alloy seat frame.
+
+FAQ:
+Q: Does the shower chair fold away?
+A: Yes. The chair folds up against the wall when it is not in use, and each armrest folds independently, so the shower stays clear for other users.
+Q: Is the seat comfortable and easy to clean?
+A: The seat has a soft PU pad that lifts off for cleaning. Underneath, the HDPE seat has five drain holes so water does not collect.
+Q: What stops the chair slipping?
+A: The legs end in anti-slip TPR feet that grip the shower floor, and the chair is fixed to the wall.
+Q: Can I order shower chairs for a care-home project?
+A: Yes. Message MULAN on WhatsApp at +86 136 6003 9128 with the number of bathrooms and your market for a B2B quote.
+
+## Wall-mounted folding stool (挂墙折叠凳)
+URL: https://touchigh.github.io/mulan/products/folding-stool/
+MULAN's wall-mounted folding stool flips 180° up and down, carries up to 250 kg and has raised anti-slip particles on the seat. It is made of ABS and stainless steel with a thickened, anti-static ABS sleeve, and a luminous ring helps users find it in low light.
+
+Features:
+- Flips 180°: Gently up and down.
+- High load: Up to 250 kg.
+- Anti-slip particles: Raised convex particle surface.
+- Luminous ring: Glows after absorbing light.
+- Thickened ABS sleeve: One-piece moulded, anti-static.
+- Materials: ABS + stainless steel.
+
+Specifications:
+- Maximum load: 250 kg
+
+FAQ:
+Q: How much weight can the folding stool carry?
+A: The wall-mounted folding stool carries up to 250 kg, according to MULAN's 2025 product manual. It is made of ABS and stainless steel.
+Q: Does the stool glow in the dark?
+A: It has a luminous ring that glows after absorbing light, which helps users find the seat in a dim bathroom.
+Q: Is the seat slippery when wet?
+A: The seat surface has raised anti-slip particles, and the thickened ABS sleeve is one-piece moulded with rounded edges and is anti-static.
+Q: Is it available in different colours?
+A: The catalogue shows the stool in yellow and white. Ask MULAN on WhatsApp at +86 136 6003 9128 for current colours and OEM options.
+
+## Grab bars and armrests (安全扶手系列)
+URL: https://touchigh.github.io/mulan/products/grab-bars/
+MULAN makes L-shaped grab bars, U-shaped and side flip-up toilet armrests and washbasin armrests. Grips use raised anti-slip particles; one L-shaped bar has a 36 mm resin tube over an aluminium alloy core. Luminous versions have rings that glow at night after absorbing light.
+
+Features:
+- L-shaped grab bar: 36 mm resin outer tube with aluminium alloy core; card-slot anti-rotation.
+- U-shaped flip-up armrest: Reinforced metal keel; folds up; anti-slip nylon particles.
+- Side flip-up armrest: Thickened steel plate base.
+- Washbasin armrest: Thermostatic anti-slip sleeve over stainless steel.
+- Luminous versions: Rings glow after absorbing light.
+- Colours: White; several models also in yellow.
+
+Specifications:
+- Grip diameter: 36 mm (L-shaped, resin + aluminium alloy)
+- Bracket: 304 stainless steel square tube (U-shaped flip-up)
+
+FAQ:
+Q: Which grab bars does MULAN make?
+A: MULAN makes L-shaped grab bars in several materials, U-shaped and side flip-up armrests for beside the toilet, and armrests that frame a washbasin. Most come in white, and several are also available in yellow for higher contrast.
+Q: Are the grab bars easy to find at night?
+A: The luminous versions have glowing rings that light up in the dark after absorbing light, so the bar is easier to find at night. The note in the catalogue says they only glow after absorbing a light source.
+Q: Will the bar turn or slip in the hand?
+A: Grips have raised anti-slip particles. The 36 mm L-shaped bar uses a resin outer tube over an aluminium alloy tube and a card-slot design that stops it rotating.
+Q: Why choose a flip-up armrest beside the toilet?
+A: A flip-up armrest folds up out of the way, which leaves room for a wheelchair transfer or a carer, then folds down for support when the user sits or stands.
+
+## Smart bathroom cabinet (智能浴室柜)
+URL: https://touchigh.github.io/mulan/products/smart-bathroom-cabinet/
+MULAN's smart bathroom cabinet lets a wheelchair roll under the basin, and its mirror tilts by hand from 0 to 15 degrees so users of different heights, seated or standing, can see themselves. It is part of MULAN's aging-friendly smart bathroom package.
+
+Features:
+- Wheelchair accessible: Space to roll under the basin.
+- Tilting mirror: Adjust by hand from 0 to 15°.
+- Part of the package: Matches the smart bathroom package.
+
+Specifications:
+- Mirror tilt: 0–15°
+
+FAQ:
+Q: Can a wheelchair fit under the cabinet?
+A: Yes. The smart bathroom cabinet is listed in MULAN's catalogue as wheelchair accessible, with room for a wheelchair under the basin. Confirm the dimensions for your room with MULAN before ordering.
+Q: How does the mirror adjust?
+A: The mirror angle adjusts by hand from 0 to 15 degrees, so it suits users of different heights, including people sitting in a wheelchair.
+Q: Can I buy the cabinet on its own?
+A: Ask MULAN on WhatsApp at +86 136 6003 9128. The cabinet is part of the aging-friendly smart bathroom package and is also quoted for projects.
+
+## General FAQ
+Q: What does MULAN make?
+A: MULAN (Foshan Mulan Zhijia Building Materials Co., Ltd.) makes aging-friendly bathroom products: multifunctional seating and split showers, an electric rise-assist stand for the toilet, wall-mounted shower chairs and folding stools, grab bars and armrests, a wheelchair-accessible smart bathroom cabinet and a complete aging-friendly smart bathroom package.
+Q: Who are MULAN products for?
+A: The products are for older adults and people with limited mobility who want to bathe and use the toilet safely and on their own. MULAN sells to businesses: distributors and importers, OEM brands, and elderly-care operators that furnish homes, apartments or care facilities.
+Q: Can an older person shower sitting down?
+A: Yes. The multifunctional seating shower has its own seat, so the user can wash seated or standing. Eight adjustable outlets on two shower arms wrap the body in water, with shoulder spray and back massage. It uses no more than 9 litres per minute and carries up to 110 kg.
+Q: How does the electric rise-assist stand help at the toilet?
+A: It fits over the toilet and lifts the seat at one touch, silently and to any height, stopping wherever the user releases the button. The front edge rises 130 + 45 mm and the seat tilts 0–13°. It carries 135 kg, is rated IPX4 and lasts 20,000 cycles.
+Q: What is in the aging-friendly smart bathroom package?
+A: The package plans a whole bathroom: a human presence sensor, warm aging-friendly lighting, a smart bath heater, anti-slip handrails, an SOS emergency call button, a seated shower, a smart toilet with lift assist, and a smart cabinet that a wheelchair can roll under.
+Q: Are MULAN grab bars easy to find at night?
+A: The luminous versions have glowing rings that light up in the dark after absorbing light, so the bar is easier to find at night. The bars also use raised anti-slip particles, and one L-shaped bar has a 36 mm resin grip over an aluminium alloy tube.
+Q: Does MULAN offer OEM?
+A: Yes. MULAN offers OEM supply of its aging-friendly bathroom products for brands that want to sell under their own name. Message the team on WhatsApp with your market, the products and expected quantities to discuss specifications and terms.
+Q: Which markets does MULAN supply, and how do I get a quote?
+A: MULAN already ships to the Middle East and West Asia and is now expanding to Japan. For B2B pricing, product sheets or OEM requests, message the MULAN team on WhatsApp at +86 136 6003 9128 with the products and quantities you need.
+
+## 常见问题（中文）
+问：沐岚生产哪些产品？
+答：沐岚（佛山市沐岚智家建材有限公司）生产适老化卫浴产品：多功能坐式和分体式淋浴器、电动起身助力架、挂墙淋浴椅和折叠凳、安全扶手系列、轮椅可入的智能浴室柜，以及适老化智能卫浴空间套餐。
+问：沐岚的产品适合谁？
+答：产品面向希望安全、独立完成洗浴和如厕的老年人及行动不便人士。沐岚主要服务企业客户：经销商与进口商、OEM 品牌，以及为家庭、公寓或养老设施做配置的养老机构。
+问：老人可以坐着洗澡吗？
+答：可以。多功能坐式淋浴器自带座椅，可坐浴也可站浴。两侧淋浴臂共 8 个可调出水嘴，水雾包裹全身，并有肩部出水和后背按摩。节水流量不超过 9 升/分钟，最大承重 110 公斤。
+问：电动起身助力架如何帮助如厕？
+答：助力架安装在马桶上，一键静音升降座圈，无级调节、随时悬停。前沿抬升 130 + 45 mm，座板角度 0–13°。最大载荷 135 kg，防护等级 IPX4，使用寿命 20,000 次。
+问：适老化智能卫浴空间套餐包含什么？
+答：套餐规划整间卫浴，包括人体存在感应器、适老化温馨照明、智能浴霸、安全防滑扶手、SOS 紧急呼叫按钮、坐式淋浴器、智能马桶加升降辅助器，以及轮椅可入的智能浴室柜。
+问：夜间能看清扶手吗？
+答：沐岚夜光款扶手带夜光圈，吸收光源后可在黑暗中发光，夜间更容易找到。扶手表面有凸起防滑颗粒，一款 L 型扶手为 36 mm 树脂外管内置铝合金管。
+问：沐岚提供 OEM 吗？
+答：提供。沐岚为希望以自有品牌销售的客户提供适老化卫浴产品 OEM。请通过 WhatsApp 告知市场、产品和预计数量，洽谈规格和合作条件。
+问：沐岚供应哪些市场？如何获取报价？
+答：沐岚已出口中东和西亚，目前重点拓展日本市场。如需 B2B 报价、产品资料或 OEM 合作，请通过 WhatsApp +86 136 6003 9128 联系沐岚团队，并说明所需产品和数量。
+
+## Blog articles
+### How to make a bathroom safe for elderly parents: a checklist
+URL: https://touchigh.github.io/mulan/blog/bathroom-safety-checklist-for-elderly-parents/
+Start where bathroom falls usually begin: getting in and out of the shower, standing up from the toilet and the night-time walk to the room. Fit fixed grab bars at those points, add a seat for showering, light the route at night, clear slip and trip hazards, and review the setup whenever your parent's health changes.
+
+### Seated shower vs shower chair: which suits older users?
+URL: https://touchigh.github.io/mulan/blog/seated-shower-vs-shower-chair/
+A shower chair is a seat added to an existing shower, best for mild balance problems, light help and quick fixes. A seated shower is a unit that surrounds the seated user with water, so it suits people who always shower seated, need a carer's help, or bathe in a cold room. Both need the right height and load rating.
+
+### Toilet lift assist for elderly users: what to check first
+URL: https://touchigh.github.io/mulan/blog/toilet-rise-assist-stand-buying-guide/
+A toilet lift assist suits older people whose knees or hips cannot lift them from the seat even with a grab bar. Before buying, check the maximum load, lift height and forward tilt, one-button control that stops at any point, grips, power supply and water protection rating, space around the toilet, and rated lift cycles.
+
+### Where to install grab bars in a bathroom: shapes and positions
+URL: https://touchigh.github.io/mulan/blog/where-to-install-grab-bars/
+Install grab bars where the user's hand goes when sitting, standing or stepping: on the wall beside the toilet, a flip-up rail on its open side, at the shower entry, inside the shower near the seat, and beside the basin. ADA guidance for public spaces sets bars 33 to 36 inches high. Fix them into solid wall.
+
+### Winter bathroom safety for older people and heat shock
+URL: https://touchigh.github.io/mulan/blog/winter-bathroom-safety-older-people/
+To protect older people from winter heat shock, warm the changing room and bathroom before bathing, keep water at 41°C or below and soaks to about 10 minutes, stand up slowly holding a fixed grab bar, and tell someone at home. A seated shower in a heated room avoids long hot soaks and high tub edges.
+
+### Care home bathroom design requirements: an 8-part spec
+URL: https://touchigh.github.io/mulan/blog/care-home-bathroom-specification/
+A care-home bathroom specification should cover eight parts: space for a wheelchair and a carer, a level slip-resistant floor, seated showering, toilet support such as a rise-assist device, grab bars, an accessible vanity, fixed heating and good lighting, and an SOS call system. Test it in one mock-up room before ordering.
+
+### One supplier or several for care-home bathrooms?
+URL: https://touchigh.github.io/mulan/blog/one-supplier-vs-many-care-home-bathrooms/
+For a care-home or senior-apartment project, one supplier for the whole aging-friendly bathroom usually gives a more consistent result: matching finishes, handrails and seats that fit together, one set of specifications and one contact for spares. Several suppliers can lower unit prices, but the buyer then carries the work of making every part fit.
+
+### Wheelchair-accessible bathroom vanity: what to specify
+URL: https://touchigh.github.io/mulan/blog/wheelchair-accessible-bathroom-cabinet/
+A wheelchair-accessible bathroom vanity needs open knee and toe space under the basin, a basin rim low enough to reach, clear floor space in front, pipes that are covered or insulated, easy taps, and a mirror a seated person can use. A tilting mirror lets the same cabinet serve seated and standing users.
+
+### Sourcing bathroom safety products from China: 10 questions
+URL: https://touchigh.github.io/mulan/blog/sourcing-aging-friendly-bathroom-products-from-china/
+To source bathroom safety products from China, shortlist factories that make the items themselves, then ask each one the same questions: tested load, materials per part, electrical data, certificates for your market, export history, MOQ and lead time. Compare the answers in one table, test samples against them and write the key figures into the contract.
+
+### OEM bathroom safety products: how private label works
+URL: https://touchigh.github.io/mulan/blog/oem-aging-friendly-bathroom-products/
+With an OEM bathroom safety products manufacturer, you choose existing models, agree what can carry your brand (logo, colour, packaging, manuals), approve samples, then order under your label. You register and own your trademark, while the factory makes and tests the product. Settle MOQ, lead time, artwork ownership and certificates in writing before the first order.
+
+### Japan elderly care market: a guide for bathroom importers
+URL: https://touchigh.github.io/mulan/blog/japan-elderly-care-market-bathroom-products/
+Japan's elderly care market for bathroom products is large and safety-driven: 29.3% of the population is 65 or older, and thousands of older people drown in bathtubs each year. Importers sell through care facilities, home-renovation contractors and welfare-equipment operators, so they need Japanese manuals, voltage-ready electrics, compact sizes and clear documentation from suppliers.
+
+### Chinese New Year 2027: factory shutdown and order deadlines
+URL: https://touchigh.github.io/mulan/blog/chinese-new-year-2027-order-lead-times/
+Chinese New Year 2027 falls on Saturday 6 February, and Lunar New Year's Eve on 5 February is a statutory holiday. Factories slow down before the break and restart gradually after it. Confirm your supplier's exact shutdown and restart dates now, approve samples in November, place orders in December and aim to finish loading by late January.
 
 ## Suggested citation
-MULAN (沐岚), Foshan Mulan Zhijia Building Materials Co., Ltd. — https://touchigh.github.io/mulan/
+MULAN 沐岚 (Foshan Mulan Zhijia Building Materials Co., Ltd., Foshan). "MULAN (沐岚) is a Foshan factory making aging-friendly bathroom products, from seated showers to rise-assist stands and grab bars, for distributors, OEM brands and care operators." https://touchigh.github.io/mulan/

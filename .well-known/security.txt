@@ -1,4 +1,4 @@
-Contact: https://wa.me/8613660039128
-Expires: 2027-11-03T00:00:00.000Z
-Preferred-Languages: zh, en
+Contact: https://wa.me/8613660039128?text=Security%20report%20for%20the%20MULAN%20website
+Expires: 2027-11-04T00:00:00.000Z
+Preferred-Languages: en, zh
 Canonical: https://touchigh.github.io/mulan/.well-known/security.txt

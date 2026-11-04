@@ -1,23 +1,41 @@
 # MULAN 沐岚
 
-> MULAN (沐岚) is a Foshan manufacturer of aging-friendly bathroom products: seated showers, rise-assist toilet frames, grab bars and complete smart bathroom packages for distributors, OEM brands and elderly-care operators.
+> MULAN (沐岚) is a Foshan factory making aging-friendly bathroom products, from seated showers to rise-assist stands and grab bars, for distributors, OEM brands and care operators.
 
-沐岚（MULAN）是佛山的适老化卫浴制造商，提供坐式淋浴器、电动起身助力架、安全扶手和适老化智能卫浴空间套餐，服务经销商、OEM 品牌和养老机构。
+> 沐岚（MULAN）是佛山的适老化卫浴工厂，为经销商、OEM 品牌和养老机构提供坐式淋浴器、电动起身助力架和安全扶手等产品。
 
-## Key pages
-- [Home (English)](https://touchigh.github.io/mulan/)
-- [首页（中文）](https://touchigh.github.io/mulan/zh/)
-- [Full brief for AI assistants](https://touchigh.github.io/mulan/llms-full.txt)
+Foshan Mulan Zhijia Building Materials Co., Ltd. (佛山市沐岚智家建材有限公司), 2F06a, Tao Li Fang, Ceramic Headquarters Base, Chancheng District, Foshan, Guangdong, China. Ships to the Middle East and West Asia; Japan is the new focus. B2B and OEM enquiries: WhatsApp +86 136 6003 9128.
 
 ## Products
-- Multifunctional seating shower (多功能坐式淋浴器): Seated or standing bath, 8 outlets, back massage, folding armrests.
-- Multifunctional split shower (多功能分体式淋浴器): Rotating upper and lower spray arms; with or without top spray.
-- Electric rise-assist stand (电动起身助力架): One-touch silent seat lift for the toilet. IPX4, 100–240 VAC.
-- Wall-mounted shower chair (挂墙淋浴椅): PU seat pad, anti-slip feet, folds up when not in use.
-- Wall-mounted folding stool (挂墙折叠凳): Flips 180°, anti-slip surface, ABS and stainless steel, 250 kg.
-- Grab bars and armrests (安全扶手系列): L-shaped, U-shaped flip-up, side flip-up and washbasin armrests.
-- Smart bathroom cabinet (智能浴室柜): Wheelchair accessible; mirror tilts 0–15° for users of any height.
-- Automatic shower machine (自动洗澡机): For care homes: about 4 minutes and 80–100 L of water per bather.
+- [Aging-friendly smart bathroom package](https://touchigh.github.io/mulan/products/smart-bathroom-package/): MULAN's aging-friendly smart bathroom package plans a whole bathroom around older users: a human presence sensor, warm lighting, a smart bath heater, anti-slip handrails, an SOS call button, a seated shower, a smart toilet with lift assist and a cabinet a wheelchair can roll under..
+- [Multifunctional seating shower](https://touchigh.github.io/mulan/products/seating-shower/): MULAN's multifunctional seating shower is a freestanding unit with a seat, so older users or people with limited mobility can shower sitting or standing.
+- [Multifunctional split shower](https://touchigh.github.io/mulan/products/split-shower/): MULAN's multifunctional split shower mounts on the wall with upper and lower spray arms that rotate, plus shoulder spray, a hand shower and an optional top spray.
+- [Electric rise-assist stand](https://touchigh.github.io/mulan/products/rise-assist-stand/): MULAN's electric rise-assist stand fits over the toilet and raises the seat at one touch, silently and to any height, stopping wherever the user releases the button.
+- [Wall-mounted shower chair](https://touchigh.github.io/mulan/products/shower-chair/): MULAN's wall-mounted shower chair gives older users a soft PU seat pad, anti-slip TPR feet and independently folding armrests.
+- [Wall-mounted folding stool](https://touchigh.github.io/mulan/products/folding-stool/): MULAN's wall-mounted folding stool flips 180° up and down, carries up to 250 kg and has raised anti-slip particles on the seat.
+- [Grab bars and armrests](https://touchigh.github.io/mulan/products/grab-bars/): MULAN makes L-shaped grab bars, U-shaped and side flip-up toilet armrests and washbasin armrests.
+- [Smart bathroom cabinet](https://touchigh.github.io/mulan/products/smart-bathroom-cabinet/): MULAN's smart bathroom cabinet lets a wheelchair roll under the basin, and its mirror tilts by hand from 0 to 15 degrees so users of different heights, seated or standing, can see themselves.
 
-## Contact
-- WhatsApp: +86 136 6003 9128 (https://wa.me/8613660039128)
+## Key pages
+- [Home](https://touchigh.github.io/mulan/)
+- [中文首页](https://touchigh.github.io/mulan/zh/)
+- [Blog](https://touchigh.github.io/mulan/blog/)
+- [About](https://touchigh.github.io/mulan/about/)
+- [Full brief](https://touchigh.github.io/mulan/llms-full.txt)
+
+## Blog
+- [How to make a bathroom safe for elderly parents: a checklist](https://touchigh.github.io/mulan/blog/bathroom-safety-checklist-for-elderly-parents/): A practical checklist to make a bathroom safe for elderly parents: grab bars, shower seating, toilet support, night lighting and the order to do it in.
+- [Seated shower vs shower chair: which suits older users?](https://touchigh.github.io/mulan/blog/seated-shower-vs-shower-chair/): Seated shower or shower chair for an elderly person? Compare installation, warmth, carer effort, space and fit, with a checklist for choosing.
+- [Toilet lift assist for elderly users: what to check first](https://touchigh.github.io/mulan/blog/toilet-rise-assist-stand-buying-guide/): Who needs a toilet lift assist, how it compares with rails and raised seats, and nine things to check before buying for a home or care home.
+- [Where to install grab bars in a bathroom: shapes and positions](https://touchigh.github.io/mulan/blog/where-to-install-grab-bars/): Where to install grab bars in a bathroom: toilet, shower, basin and door positions, ADA heights, which shape goes where, and how to see them at night.
+- [Winter bathroom safety for older people and heat shock](https://touchigh.github.io/mulan/blog/winter-bathroom-safety-older-people/): How to cut winter heat shock risk for older people: warm the bathroom, keep baths short and below 41°C, and add seating and grab bars.
+- [Care home bathroom design requirements: an 8-part spec](https://touchigh.github.io/mulan/blog/care-home-bathroom-specification/): An 8-part specification for age-friendly care-home bathrooms: space, floors, showering, toilets, grab bars, vanity, warmth and call systems.
+- [One supplier or several for care-home bathrooms?](https://touchigh.github.io/mulan/blog/one-supplier-vs-many-care-home-bathrooms/): Single supplier or several for an aging-friendly bathroom project? Compare consistency, risk, cost control and after-sales, with a buyer checklist.
+- [Wheelchair-accessible bathroom vanity: what to specify](https://touchigh.github.io/mulan/blog/wheelchair-accessible-bathroom-cabinet/): What to specify for a wheelchair-accessible bathroom vanity in care projects: knee clearance, basin height, mirror position, taps and storage.
+- [Sourcing bathroom safety products from China: 10 questions](https://touchigh.github.io/mulan/blog/sourcing-aging-friendly-bathroom-products-from-china/): How to source bathroom safety products from China: 10 questions to ask a supplier, a comparison table for answers, and checks before you pay a deposit.
+- [OEM bathroom safety products: how private label works](https://touchigh.github.io/mulan/blog/oem-aging-friendly-bathroom-products/): How OEM and private label work with a bathroom safety products manufacturer: routes compared, step-by-step process and who owns what.
+- [Japan elderly care market: a guide for bathroom importers](https://touchigh.github.io/mulan/blog/japan-elderly-care-market-bathroom-products/): Japan's elderly care market for bathroom products: official ageing and bathing-accident data, buyer channels, long-term care rules and supplier checks.
+- [Chinese New Year 2027: factory shutdown and order deadlines](https://touchigh.github.io/mulan/blog/chinese-new-year-2027-order-lead-times/): Chinese New Year 2027 falls on 6 February. How the factory shutdown works and a backward-planning timeline for bathroom product orders.
+
+## Suggested citation
+MULAN 沐岚 (Foshan Mulan Zhijia Building Materials Co., Ltd., Foshan). "MULAN (沐岚) is a Foshan factory making aging-friendly bathroom products, from seated showers to rise-assist stands and grab bars, for distributors, OEM brands and care operators." https://touchigh.github.io/mulan/

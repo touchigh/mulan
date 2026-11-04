@@ -1,8 +1,9 @@
 /* TEAM */
-Brand: MULAN 沐岚, Foshan Mulan Zhijia Building Materials Co., Ltd.
-Site built by: ToucHigh (touchigh.ai)
+Company: Foshan Mulan Zhijia Building Materials Co., Ltd.
+Location: Foshan, Guangdong, China
+Built by: ToucHigh (touchigh.ai)
 
 /* SITE */
-Last update: 2026-11-03
-Languages: English, 中文
-Standards: HTML5, CSS3, schema.org JSON-LD
+Last update: 2026-11-04
+Languages: English, Chinese
+Standards: HTML5, schema.org JSON-LD, llms.txt
