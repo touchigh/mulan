@@ -9,7 +9,7 @@ from static_content import PRODUCTS, GROUPS, PILLARS, UI, HOME_FAQ, ABOUT, WHY, 
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = ROOT
-BASE = os.environ.get("SITE_BASE", "https://touchigh.github.io/mulan").rstrip("/")
+BASE = os.environ.get("SITE_BASE", "https://mulanbath.com").rstrip("/")
 TODAY = "2026-11-04"
 BRAND = json.load(open(os.path.join(SITE, "data/brand.json"), encoding="utf-8"))
 ONE = {"en": BRAND["one_line_en"], "zh": BRAND["one_line_zh"]}

@@ -1,6 +1,6 @@
 # MULAN 沐岚 website
 
-Static site for Foshan Mulan Zhijia Building Materials Co., Ltd. (佛山市沐岚智家建材有限公司), aging-friendly bathroom products. Deployed with GitHub Pages at https://touchigh.github.io/mulan/ (branch `main`, root).
+Static site for Foshan Mulan Zhijia Building Materials Co., Ltd. (佛山市沐岚智家建材有限公司), aging-friendly bathroom products. Deployed with GitHub Pages at https://mulanbath.com/ (branch `main`, root).
 
 Built by ToucHigh with the `seo-aeo-geo-website` skill on top of the `somin-brand-deck` run in ToucHigh Pro workspace 5107 (API twin 5005), Nov 2025 – Oct 2026. Product facts come only from MULAN's 2025 aging-friendly bathroom product manual (适老化卫浴产品手册).
 
@@ -19,7 +19,7 @@ python -I build/build.py                       # writes the site into the repo r
 python -I build/check_site.py . --definition "<one-line definition from data/brand.json>"
 ```
 
-Set `SITE_BASE` to build for another host (e.g. `SITE_BASE=http://127.0.0.1:8767` for a local `build/live_audit.py` run). After deploying, run `python -I build/live_audit.py https://touchigh.github.io/mulan`.
+Set `SITE_BASE` to build for another host (e.g. `SITE_BASE=http://127.0.0.1:8767` for a local `build/live_audit.py` run). After deploying, run `python -I build/live_audit.py https://mulanbath.com`.
 
 | Path | Purpose |
 |---|---|

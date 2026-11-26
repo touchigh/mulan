@@ -61,5 +61,5 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 
-# LLM-readable briefs: https://touchigh.github.io/mulan/llms.txt and https://touchigh.github.io/mulan/llms-full.txt
-Sitemap: https://touchigh.github.io/mulan/sitemap.xml
+# LLM-readable briefs: https://mulanbath.com/llms.txt and https://mulanbath.com/llms-full.txt
+Sitemap: https://mulanbath.com/sitemap.xml
